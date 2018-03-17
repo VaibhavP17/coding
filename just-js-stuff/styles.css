@@ -1,0 +1,17 @@
+.innerDiv {
+  width: 50px;
+  height: 50px;
+  background-color: green
+}
+
+.outerDiv {
+  width: 500px;
+  height: 500px;
+  background-color: yellow
+}
+
+.center{
+  position: relative;
+  top: 225px;
+  left: 225px;
+}
