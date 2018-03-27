@@ -14,3 +14,15 @@
 3.  How would you implement URL short algorithm.
 
 4. Implement deepCopy(obj) method in javascript
+
+5. Implement 'debounce'/'throttle' method in javascript
+
+6. Explain Closure.
+
+7. Difference between Arrow function and normal function declaration.
+
+8. Find the nth element from end in a linked list
+
+9. Find ancestors in a Map (tree).
+
+10. Difference between 'ol' and 'ul'.
